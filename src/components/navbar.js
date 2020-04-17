@@ -18,9 +18,9 @@ function Navbar({pages}) {
     >
       <div className="navbar-left">English</div>
       <div className="navbar-middle">
-        <Link to="/">
-          Covid19<span>India</span>
-        </Link>
+        <a href="https://techcivitas-e7039.web.app/">
+          Tech <span style={{color: '#20cb09'}}>Civitas</span>
+        </a>
       </div>
       <div
         className="navbar-right"
